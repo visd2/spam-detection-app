@@ -1,0 +1,11 @@
+# Ignore dataset files, as they are downloaded by the script
+SMSSpamCollection
+smsspamcollection.zip
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+.venv/
